@@ -1,10 +1,9 @@
-# Magento2 Theme Pattern Library
+# Magento2 Pattern Lab Module
 
-A boilerplate pattern library for integrating with a Magento2 Theme.
+This is just an implementation that allows you to use your Twig template files from your Pattern Lab patterns in your Magento2 installation.
 
-Based off of Bootstrap 4.
+Just add this as a dependency to your theme or module and when you reference a Twig template it will render on your site.
 
-Clone this project and change th
 ## What you need for development
  1. Oracle VirtualBox
  2. Vagrant
