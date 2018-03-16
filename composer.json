@@ -1,0 +1,17 @@
+{
+  "name": "davideugenepratt/magento2-pattern-lab",
+  "description": "A module that allows you to use pattern lab patterns in your magento2 theme.",
+  "version" : "v0.1.0",
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
+  "type": "magento2-module",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "DavidEugenePratt\\Magento2PatternLab\\": ""
+    }
+  }
+}
